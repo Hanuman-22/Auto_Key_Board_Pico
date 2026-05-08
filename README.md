@@ -1,6 +1,50 @@
 [README.md](https://github.com/user-attachments/files/27506732/README.md)
 # PicoKeyboard
 
+
+{
+My Explanation
+
+Drive link
+
+https://drive.google.com/drive/folders/1KfEYSo5PayLQU6dUk9bkMEioLgrCrkFL?usp=drive_link
+
+
+
+1-
+
+need to install the ribo rasbaeryy installer in it 
+
+copy \Rasberrry_Pi_project\adafruit-circuitpython-raspberry_pi_pico2_w-en_US-10.1.4.uf2"
+
+copy this to the pico and boot it 
+
+2-
+
+to run it in laptop and check for the available network run 
+
+---
+venv\Scripts\activate
+
+python find_pico.py
+
+----
+
+get the ip address and paste it in the web page 
+
+Ex:-
+http://10.39.206.222:8080/
+
+
+3- IN the pico file need to update the 
+Lib file to the files which are in the drive in pico file
+
+https://drive.google.com/drive/folders/1KfEYSo5PayLQU6dUk9bkMEioLgrCrkFL?usp=drive_link
+
+the Boot file which is in laptop file, you can copy paste in the pico to boot it to keyboard
+
+}
+
 **Type code on any computer from your phone or another laptop — using a Raspberry Pi Pico 2 W as a USB keyboard.**
 
 No drivers needed on the target computer. No software to install. Just plug in and type.
