@@ -33,7 +33,7 @@ python find_pico.py
 get the ip address and paste it in the web page 
 
 Ex:-
-http://10.39.206.222:8080/
+http://10.39.206.100:8080/
 
 
 3- IN the pico file need to update the 
