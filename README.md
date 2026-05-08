@@ -66,9 +66,10 @@ You paste code into a web page. The Pico types it on the target computer charact
 
 ### From Phone
 1. Open the Pico's web page in your phone browser
+http://10.39.206.100:8080/
 2. Paste code
 3. Hit Send
-4. Code appears on Laptop B
+4. Code appears on Laptop
 
 ### From Laptop A
 1. Copy code (Ctrl+C)
@@ -93,7 +94,7 @@ You paste code into a web page. The Pico types it on the target computer charact
 | Item | Cost | Notes |
 |------|------|-------|
 | Raspberry Pi Pico 2 W | ~$6 | Any Pico 2 W board works (Freenove, official, etc.) |
-| USB-C cable | ~$3 | Data cable, not charge-only |
+| Micro USB- cable | ~$3 | Data cable, not charge-only |
 | **Total** | **~$9** | That's it |
 
 ## Project Structure
